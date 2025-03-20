@@ -1,5 +1,5 @@
-let element = document.querySelector("#val");
-let mybtn = document.querySelector("#btn");
+let element = document.querySelector("#counter");
+let mybtn = document.querySelector("#incrementBtn");
 
 mybtn.addEventListener("click",function (){
 	
